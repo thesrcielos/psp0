@@ -93,7 +93,7 @@ To see more about the class diagram go to **DESIGN.md**
 
 ## 📚 Javadoc
 
-La documentación del código está disponible en la carpeta `target/site/apidocs/index.html` después de ejecutar:
+Code documentation is available in `target/site/apidocs/index.html` after running the command:
 
 ```bash
 mvn javadoc:javadoc
@@ -101,9 +101,9 @@ mvn javadoc:javadoc
 
 ## LOC/h Report
 
-- Time spent: 5.5 hours
+- Time spent: 3 hours
 - Logical lines of code: 88
-- Productivity: **16 LOC/h**
+- Productivity: **29 LOC/h**
 
 ## Built With
 
