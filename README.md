@@ -19,7 +19,7 @@ You will need the following installed:
 Clone the repository:
 
 ``` 
-git clone https://github.com/your-username/java-line-counter.git
+git clone https://github.com/thesrcielos/psp0.git
 cd java-line-counter
 ```
 
